@@ -24,7 +24,7 @@ This project is a note-taking application built with Node.js and the Express fra
 ## Demo
 A demo showcasing the functionality and capabilities of this app can be seen on this Link
 
-- https://jake-note-taker-4cc20b8b5544.herokuapp.com/notes
+- https://jake-note-taker-4cc20b8b5544.herokuapp.com
 
 ## Installation
 
