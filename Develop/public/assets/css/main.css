@@ -1,0 +1,25 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .content {
+    flex: 1;
+  }
+
+  .footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    /* Bootstrap light gray background color */
+  }
+
+  .footer a {
+    color: #007bff;
+    /* Bootstrap primary color */
+  }
+
+  .footer a:hover {
+    text-decoration: underline;
+  }
